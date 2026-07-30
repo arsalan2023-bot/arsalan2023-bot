@@ -1,6 +1,6 @@
 <div align="center">
 
-# Arsalan Karami
+# Aralan Karami
 
 **Web3 Protocol Tester → Technical Writer**
 
