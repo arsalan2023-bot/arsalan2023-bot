@@ -2,7 +2,7 @@
 
 # Arsalan Karami
 
-**Web3 Protocol Tester → Technical Writer**
+**Web3 Prtocol Tester → Technical Writer**
 
 5+ years of hands-on testnet experience across 60+ Web3 & AI protocols.
 Now channeling that technical depth into documentation, developer guides, and content.
