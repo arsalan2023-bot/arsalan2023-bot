@@ -23,7 +23,7 @@ Now channeling that technical depth into documentation, developer guides, and co
 
 ### 🛠️ Currently
 
-- Building a technical writing portfolio for Web3 projects
+- Building a technical writing portfolio for Web3 project
 - Open to documentation & developer content work — reach out if you're building something
 
 ### 📫 Reach me
