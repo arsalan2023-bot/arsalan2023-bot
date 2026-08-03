@@ -17,7 +17,7 @@ Now channeling that technical depth into documentation, developer guides, and co
 
 ### 🔍 What I do
 
-- **Protocol testing** — testnet participation, bug reporting, and network stress-testing before mainnet launches
+- **Protocol testing** — testnet participation, bug reporting, and network stress-testing before mainnet launche
 - **Technical writing** — READMEs, developer guides, and documentation grounded in hands-on protocol experience
 - **Web3 & AI ecosystems** — Movement, Monad, Taiko, Berachain, Linera, Concrete, Pharos, DataHaven, June, Ambient & 50+ more
 
