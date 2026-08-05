@@ -15,7 +15,7 @@ Now channeling that technical depth into documentation, developer guides, and co
 
 ---
 
-### 🔍 What I d
+### 🔍 What I 
 
 - **Protocol testing** — testnet participation, bug reporting, and network stress-testing before mainnet launches
 - **Technical writing** — READMEs, developer guides, and documentation grounded in hands-on protocol experience
