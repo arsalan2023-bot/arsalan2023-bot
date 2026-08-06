@@ -21,7 +21,7 @@ Now channeling that technical depth into documentation, developer guides, and co
 - **Technical writing** — READMEs, developer guides, and documentation grounded in hands-on protocol experience
 - **Web3 & AI ecosystems** — Movement, Monad, Taiko, Berachain, Linera, Concrete, Pharos, DataHaven, June, Ambient & 50+ more
 
-### 🛠️ Currently
+### 🛠️ Currentl
 
 - Building a technical writing portfolio for Web3 projects
 - Open to documentation & developer content work — reach out if you're building something
