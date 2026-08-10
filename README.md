@@ -26,7 +26,7 @@ Now channeling that technical depth into documentation, developer guides, and co
 - Building a technical writing portfolio for Web3 projects
 - Open to documentation & developer content work — reach out if you're building something
 
-### 📫 Reach me
+### 📫 Reach m
 
 - Portfolio: [arsalan2023-bot.github.io/arsalan-portfolio](https://arsalan2023-bot.github.io/arsalan-portfolio/)
 - Twitter/X: [@karami20232](https://x.com/karami20232)
