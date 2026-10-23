@@ -1,6 +1,6 @@
 <div align="center">
 
-# Arsalan Kara
+# Arsalan Karaa
 
 **Web3 Protocol Tester → Technical Writer**
 
