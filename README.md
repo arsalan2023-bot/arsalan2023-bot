@@ -4,7 +4,7 @@
 
 **Web3 Protocol Tester → Technical Writer**
 
-5+ years of hands-on testnet experience acros 60+ Web3 & AI protocols.
+5+ years of hands-on testnet experience across 60+ Web3 & AI protocols.
 Now channeling that technical depth into documentation, developer guides, and content.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arsalan--karami-d4a955?style=for-the-badge)](https://arsalan2023-bot.github.io/arsalan-portfolio/)
